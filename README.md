@@ -8,8 +8,6 @@
 
 Python replication for Sutton & Barto's book [*Reinforcement Learning: An Introduction (2nd Edition)*](http://incompleteideas.net/book/the-book-2nd.html)
 
-> If you have any confusion about the code or want to report a bug, please open an issue instead of emailing me directly, and unfortunately I do not have exercise answers for the book.
-
 # Contents 
 
 ### Chapter 1
