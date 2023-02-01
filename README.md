@@ -2,7 +2,6 @@
 
 ```diff
 @@ I am looking for self-motivated students interested in RL at different levels! @@
-@@ Visit https://shangtongzhang.github.io/people/ for more details. @@
 ```
 
 [![Build Status](https://travis-ci.org/ShangtongZhang/reinforcement-learning-an-introduction.svg?branch=master)](https://travis-ci.org/ShangtongZhang/reinforcement-learning-an-introduction)
@@ -103,5 +102,3 @@ Python replication for Sutton & Barto's book [*Reinforcement Learning: An Introd
 python any_file_you_want.py
 ```
 
-# Contribution
-If you want to contribute some missing examples or fix some bugs, feel free to open an issue or make a pull request. 
